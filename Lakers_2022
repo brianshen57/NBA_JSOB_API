@@ -32,7 +32,7 @@
       "affiliation": "Ohio State/USA",
       "leagues": {
         "standard": {
-          "jersey": null,
+          "jersey": 1,
           "active": true,
           "pos": "G"
         }
