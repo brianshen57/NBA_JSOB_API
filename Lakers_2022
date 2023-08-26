@@ -874,7 +874,7 @@
       "affiliation": "UCLA/USA",
       "leagues": {
         "standard": {
-          "jersey": null,
+          "jersey": 0,
           "active": true,
           "pos": "G"
         }
